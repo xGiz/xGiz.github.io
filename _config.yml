@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://xgiz.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -81,4 +81,9 @@ deploy:
   type: git
   repo: git@github.com:xGiz/xGiz.github.io.git
   branch: master # Github Pages must be master branch
+
+# Post Wordcount
+## Docs: https://theme-next.org/docs/theme-settings/
+symbols_count_time:
+  symbols: true
 
