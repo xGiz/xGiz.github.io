@@ -2,10 +2,11 @@
 title: 使用Hexo构建博客
 date: 2019-01-10 22:39:57
 tags:
-- 写作
-- 博客
+- Tools
+- Node
+- Hexo
 categories:
-- [写作]
+- [工具]
 ---
 
 # 前言
