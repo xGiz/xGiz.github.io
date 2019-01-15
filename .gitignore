@@ -64,3 +64,6 @@ typings/
 .deploy_git
 db.json
 public/
+
+.DS_Store
+
